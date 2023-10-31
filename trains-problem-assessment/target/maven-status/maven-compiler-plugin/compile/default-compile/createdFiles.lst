@@ -1,0 +1,4 @@
+com\java\trains\assessment\controller\TrainsProblemController.class
+com\java\trains\assessment\service\impl\TrainsProblemServiceImpl.class
+com\java\trains\assessment\service\TrainsProblemService.class
+com\java\trains\assessment\TrainsProblemAssessmentApplication.class
